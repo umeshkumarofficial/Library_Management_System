@@ -137,3 +137,6 @@ The Library Management System employs a relational database model using SQLite t
 4. **📩 Managing Feedback**
 
    - Librarians can view user feedback and respond to their concerns.
+
+
+<img width="1908" height="879" alt="image" src="https://github.com/user-attachments/assets/b702a96d-510c-41b9-b02a-01b591ed629d" />
